@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josinaldson
-- 👀 I’m interested in Python and OpenFoam
-- 🌱 I’m currently learning about Python and OpenFOam
+- 👀 I’m interested in develop knowlodge in Python and OpenFoam
 
 <!---
 josinaldson/josinaldson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
